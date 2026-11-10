@@ -99,7 +99,7 @@ Studying this version led to the redesign in v0.0.2.
 @inproceedings{praneeth_queryverse,
   title  = {QueryVerse: Transform Prompts into Data},
   author = {Samuji Praneeth and Gundala Pallavi and R. Prasanna Kumar},
-  note   = {<venue, year>}
+  note   = {<2025>}
 }
 ```
 
