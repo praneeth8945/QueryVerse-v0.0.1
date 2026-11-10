@@ -1,0 +1,6 @@
+# Installed by the notebook's first cell on Google Colab
+unsloth
+rouge
+nltk
+scikit-learn
+gradio
